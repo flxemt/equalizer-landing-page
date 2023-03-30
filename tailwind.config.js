@@ -9,6 +9,9 @@ export default {
         yellow: '#FFB964',
         'show-white': '#FCFAF9',
         'dark-blue': '#191826'
+      },
+      gridTemplateColumns: {
+        footer: '147px 1fr 1fr'
       }
     },
     fontSize: {
