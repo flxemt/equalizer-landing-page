@@ -36,7 +36,7 @@ export default {
     backgroundPosition: {
       'top-right': 'right -220px top -250px',
       'top-right-tablet': 'right -80px top -250px',
-      'top-right-desktop': 'right -150px top -250px'
+      'top-right-desktop': 'right -170px top -250px'
     },
     borderRadius: {
       default: '12px'
